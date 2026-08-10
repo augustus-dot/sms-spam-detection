@@ -77,11 +77,9 @@ The model correctly classified 880 ham messages and 136 spam messages in the tes
 
 ## Group Members
 
-| Name                    | Index Number |
-| ----------------------- | ------------ |
-| APPIAH AUGUSTUS         | UEB3519923   |
-| MUMUNI RAZACK ANONABALA | UEB35106823  |
-| ISHMEAL                 | UEB3509223   |
+AUGUSTUS APPIAH - UEB3519923
+MUMUNI RAZACK ANONABALA- UEB3506823
+ISHMEAL NARTEH - UEB3509223
 
 ## Future Improvements
 
